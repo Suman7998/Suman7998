@@ -91,9 +91,9 @@ I am a passionate **Software & Backend Developer**, experienced in building
 
 ### 📌 Featured Project Types  
 
-🔥 Android Apps (Blood Bank, Food Delivery, Trekking, Safety, Travel, Medicine)  
-🔥 Backend API Systems (Node.js | DB handled | JWT based auth)  
-🔥 AI Assisted Apps (Gemini/BERT/Chatbot Integration)  
-🔥 Cloud Ready Deployments (CI/CD pipelines)  
+👉 Android Apps (Blood Bank, Food Delivery, Trekking, Safety, Travel, Medicine)  
+👉 Backend API Systems (Node.js | DB handled | JWT based auth)  
+👉 AI Assisted Apps (Gemini/BERT/Chatbot Integration)  
+👉 Cloud Ready Deployments (CI/CD pipelines)  
 
 
