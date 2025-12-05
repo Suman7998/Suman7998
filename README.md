@@ -54,16 +54,7 @@ I am a passionate **Software & Backend Developer**, experienced in building
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suman7998&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman7998&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🔥 GitHub Streak  
+### 🔥 GitHub Stats 
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Suman7998&theme=highcontrast&hide_border=false"/>
