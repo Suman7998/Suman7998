@@ -52,13 +52,8 @@ I am a passionate **Software & Backend Developer**, experienced in building
 #### 🔧 Tools  
 `Git` `GitHub` `Postman` `VS Code` `Android Studio`
 
----
 
-### 🔥 GitHub Stats 
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Suman7998&theme=highcontrast&hide_border=false"/>
-</p>
 
 ---
 
